@@ -10,8 +10,8 @@ This yields a single score for each episode.
 The environment is considered solved, when the average (over 100 episodes) of those scores is at least +0.5.
 
 Number of agents: 2
-Size of each action: 4
-Each agent a state with length: 8
+Size of each action: 2
+Each agent a observable state with length: 24
 
 The environment is considered solved when score is >30 averaged over the last 100 episodes for the 20 agents.
 
